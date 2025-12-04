@@ -1,4 +1,4 @@
-  # README File
+  # README File FOR game.c
   
 * We used many libraries for their respective functions to be added in this game.
                             > Like: used "rand()" which helps us to take a random thing to be done in our programming.
@@ -25,7 +25,7 @@
                             > RIGHT key will be used to move the object to right direction.
 
 
-# Modifications:
+* Modifications:
 
 1. LIVES:
                              > I introduced lives in this which are 3 in number.
@@ -47,9 +47,49 @@ Bonus: LANES:
 
 
 
+ # README File FOR game.c
+
+
+* This Game is Tic-Tac-Toe:
+
+* There is only 1 library is used in it according to my level of understanding.
+
+* GAME RULES: 
+                   > The game board contains 9 cells.
+                   > Player 1 uses "X" while player 2 uses "O".
+                   > Player choses numbers between 1-9.
+                   > And remaining all the rules are already known to everyone. 
+
+
+* PROGRAMMING USED:
+                    > Normal 2D arrays' concepts are being used in this.
+                    > I've used functions in this just to increase readibility of the code.
+                    > Also wrote some comments for better understanding.
+                    >> Normal functions like- "draw()" and "checkwin()" which are crystal clear in written code.
+                    > If someone uses same number already being used then it'll show "invalid move!".
+
+* MOTIVE:
+                    > Motive of making this game was just to sharpen my understanding about arrays' concepts. 
+                    
+
+
 # CONCLUSION:
-It is purely done by me.
-No source no help no partner.
-Enjoy the Game!
-Thanks!
-   
+
+~ In 1st objective:
+                    >> I did all the modifications and all README file' work alone.
+                    >> NO HELP, NO SOURCE, NO PARTNER.
+                    >> Done only 3 modifications that were easy.
+                    >> Added one bonus modification just to ensure a better game to be made in the end.
+
+~ In 2nd objective:
+                    >> I took help of chatGPT for just starting ideas.
+                    >> All the next concepts were mine.
+                    >> made an easy game for just clearance of my doubts in 2D arrays.
+
+
+~ In the end:
+                    >> ENJOY THE GAME.
+                    
+
+                    >> All the hardwork from- @ ABHAY SOROUT
+
